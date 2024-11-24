@@ -11,11 +11,12 @@ I am Marc, a passionate software engineer and musician from Berlin. While not ti
 
 ✨ [**Fun Game I Built**](https://projects.marcnitzsche.de/ClickTheNumber/)
 
+<!--
 ---
 
 💡 Available for [freelancing opportunities](https://www.marcnitzsche.de/freelancing/)
 
-<!--
+
 **remarcable/remarcable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
